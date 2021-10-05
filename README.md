@@ -1,8 +1,8 @@
 # WordPress and WooCommerce Terraform AWS Cloud Infrastructure 
 
+![WordPress and WooCommerce Cloud Terraform infrastructure](https://user-images.githubusercontent.com/9213670/135955569-13d897c2-42f9-4369-9f34-d95904e523a8.png)
 
-
-WordPress and wooCommerce AWS Cloud has the next components:
+**WordPress** and **WooCommerce** AWS Cloud has the next components:
  - Web Node with Auto Scaling and support of ARM Graviton 2 instances,
  - ElasticSearch, plugin like this required https://wordpress.org/plugins/elasticpress/
  - Relational database MySQL/MariaDB or Aurora RDS
